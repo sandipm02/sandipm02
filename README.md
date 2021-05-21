@@ -69,7 +69,7 @@ I love to learn every single day! The technologies I work with always evolve. He
 </tbody>
 </table>
 
-### >⃣ Technologies
+### >⃣ Databases
 
 <table>
 <tbody>
