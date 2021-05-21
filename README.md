@@ -94,20 +94,20 @@ I love to learn every single day! The technologies I work with always evolve. He
 <tbody>
 
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/122012/image_01_0.png?itok=o1EgcKfB"> 
 </td>
 
-<td align="center" width="33%">
-<img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"> 
 </td>
 
-<td align="center" width="33%">
-<img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"> 
 </td>
  
-<td align="center" width="33%">
-<img height=70px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+<td align="center" width="25%">
+<img height=70px src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"> 
 </td>
 </tr>
 </tr>
