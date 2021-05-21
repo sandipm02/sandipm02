@@ -1,4 +1,7 @@
 ![picture](https://i.imgur.com/jGGNj7h.png)
+
+![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&theme=radical)
+
 <!--
 **sandipm02/sandipm02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
