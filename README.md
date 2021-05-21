@@ -8,7 +8,7 @@ Creating is something i've been fascinated with since I was a child. I hope to o
 impactful and useful techonology that can make people's lives easier & better!
 <br>
 🌀 Feel free to checkout my Socials! 🌀<br><br>
-<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png">[LinkedIn!](https://www.linkedin.com/in/sandip-mishra-2002/)
+<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"> [LinkedIn!] (https://www.linkedin.com/in/sandip-mishra-2002/)
 
 ## Language Arsenal 🏹🔫
 <br>
