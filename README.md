@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=“https://imgur.com/jGGNj7h”>
+![picture](https://imgur.com/jGGNj7h)
 <!--
 **sandipm02/sandipm02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
