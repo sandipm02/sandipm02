@@ -6,10 +6,10 @@
 I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼‍🎓
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful and useful techonology that can make people's lives easier & better!
-
-🌀 Feel free to check out my Socials's! 🌀<br><br>
-<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"> [LinkedIn!](https://www.linkedin.com/in/sandip-mishra-2002/)
-<img height=16px src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png"> [Website!](https://www.sandipmishra.com)
+<br>
+### 🌀 Feel free to check out my Socials's! 🌀<br><br>
+<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"> [LinkedIn!](https://www.linkedin.com/in/sandip-mishra-2002/) - 
+<img height=16px src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png"> [Website!](https://www.sandipmishra.com) - 
 <img height=16px src="https://cdn3.iconfinder.com/data/icons/solid-amenities-icon-set/64/Coffee_Maker_copy-512.png"> [Coffee!](https://www.timhortons.ca/?lang=en)
 
 
