@@ -1,11 +1,9 @@
 ![picture](https://i.imgur.com/jGGNj7h.png)
 
 ## About Me 👱‍♂️🪐
-<br>
 
 #### Hey I'm Dip! 👋
 
-<br>
 I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼‍🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful and useful techonology that can make people's lives easier & better!
