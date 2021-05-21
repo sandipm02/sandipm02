@@ -10,9 +10,9 @@ impactful and useful techonology that can make people's lives easier & better!
 <br>
 Here's some socials: 
 
-[linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
-[website.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
-[coffee.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
+[linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
+[website.](https://www.sandipmishra.com/)
+[coffee.](https://www.timhortans.ca)
 <br>
 
 ## Language Arsenal 🏹🔫
