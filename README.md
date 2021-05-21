@@ -1,5 +1,6 @@
 ![picture](https://i.imgur.com/jGGNj7h.png)
 
+### Random Github Statistics
 ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&theme=radical)
 
 <!--
