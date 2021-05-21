@@ -8,7 +8,7 @@ Creating is something i've been fascinated with since I was a child. I hope to o
 impactful and useful techonology that can make people's lives easier & better!
 
 🌀 Feel free to check out my Socials's! 🌀
-![icon](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png) Click Here!
+<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"> Click Here!
 C
 
 ## Language Arsenal 🏹🔫
