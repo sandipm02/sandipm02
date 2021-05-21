@@ -9,6 +9,7 @@ Creating is something i've been fascinated with since I was a child. I hope to o
 impactful and useful techonology that can make people's lives easier & better!
 <br>
 Here's some socials: 
+
 [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 [website.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 [coffee.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
