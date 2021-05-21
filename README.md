@@ -7,8 +7,8 @@
 I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼‍🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful and useful techonology that can make people's lives easier & better!
-<br>
-Here's some socials: 
+<br><br>
+Feel Free to checkout some useful resources: 
 
 [linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
 [website.](https://www.sandipmishra.com/)
