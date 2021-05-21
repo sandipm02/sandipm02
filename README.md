@@ -2,6 +2,7 @@
 
 ## About Me 👱‍♂️🪐
 <br>
+
 ## Language Arsenal 🏹🔫
 <br>
 ### Lanuages
@@ -11,6 +12,7 @@
 ### Technologies
 
 ### Other
+
 
 ## Random Github Statistics 🎈💻
 <br>
