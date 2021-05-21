@@ -5,7 +5,7 @@
 
 ## Language Arsenal 🏹🔫
 <br>
-#### I love to learn every single day! The technologies I work with always evolve. Here's a quick list of my experiences so far!
+I love to learn every single day! The technologies I work with always evolve. Here's a quick list of my experiences so far!
 
 ### >⃣ Languages
 
