@@ -19,35 +19,16 @@ I love to learn every single day! The technologies I work with always evolve. He
 <table>
 <tbody>
 <tr>
-
   <td align="center" width="33%">
   <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
-
   <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
   </td>
-
   <td align="center" width="33%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
   </td>
-
   </tr>
-  <tr>
- 
-  <td align="center" width="33%" >
-  <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-  </td>
-
-  <td align="center" width="33%" >
-  <img height=80px src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"> 
-  </td>
-
-  <td align="center" width="33%" >
-  <img height=80px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
-  </td>
-
-</tr>
 </tbody>
 </table>
 
