@@ -5,7 +5,7 @@
 
 ## Language Arsenal 🏹🔫
 <br>
-##### I love to learn every single day! The technologies I work with always evolve. Here's a quick list of my experiences so far!
+#### I love to learn every single day! The technologies I work with always evolve. Here's a quick list of my experiences so far!
 
 ### >⃣ Languages
 
@@ -18,7 +18,7 @@
 
 ## Random Github Statistics 🎈💻
 <br>
-##### Who doesn't love the good'ol visual here and there? 
+#### Who doesn't love the good'ol visual here and there? <br>
 ![Sandip's Github Status](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 ## Meme Generator
