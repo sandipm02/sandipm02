@@ -38,23 +38,23 @@ I love to learn every single day! The technologies I work with always evolve. He
 <tbody>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
 </td>
 
@@ -68,19 +68,19 @@ I love to learn every single day! The technologies I work with always evolve. He
 <tbody>
 
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
  
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=70px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 </td>
 </tr>
@@ -90,6 +90,29 @@ I love to learn every single day! The technologies I work with always evolve. He
 
 ### >⃣ Other
 
+<table>
+<tbody>
+
+<tr>
+<td align="center" width="33%">
+<img height=60px src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/122012/image_01_0.png?itok=o1EgcKfB"> 
+</td>
+
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+</td>
+ 
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+</td>
+</tr>
+</tr>
+</tbody>
+</table>
 
 ## Random Github Statistics 🎈💻
 #### Who Doesn't appreciate the good'ol visual?
