@@ -4,7 +4,7 @@
 <br>
 👋 Hey I'm Dip! 
 <br>
-I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼‍🎓
+I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼‍🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful and useful techonology that can make people's lives easier & better!
 <br>
@@ -115,5 +115,5 @@ I love to learn every single day! The technologies I work with always evolve. He
 </table>
 
 ## Random Github Statistics 🎈💻
-#### Who Doesn't appreciate the good'ol visual?
+Who Doesn't appreciate the good'ol visual?
 ![Sandip's Github Status](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
