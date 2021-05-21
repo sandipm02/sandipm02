@@ -8,10 +8,6 @@ I'm a 2nd year Software Engineering Student @ the University of Calgary 👨🏼
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful and useful techonology that can make people's lives easier & better!
 <br>
-[LinkedIn.](https://www.linkedin.com/in/sandip-mishra-2002/)
-[Personal Website.](www.sandipmishra.com)
-[Coffee.](https://www.timhortons.ca) 
-
 [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 [website.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 [coffee.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
