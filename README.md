@@ -8,10 +8,7 @@ Creating is something i've been fascinated with since I was a child. I hope to o
 impactful and useful techonology that can make people's lives easier & better!
 <br>
 ## 🌀 Socials! 🌀<br><br>
-<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png">[LinkedIn!](https://www.linkedin.com/in/sandip-mishra-2002/)
-<img height=16px src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png">[Website!](https://www.sandipmishra.com)
-<img height=16px src="https://cdn3.iconfinder.com/data/icons/solid-amenities-icon-set/64/Coffee_Maker_copy-512.png">[Coffee!](https://www.timhortons.ca/?lang=en)
-
+<img height=16px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"> [LinkedIn!](https://www.linkedin.com/in/sandip-mishra-2002/)<img height=16px src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png">[Website!](https://www.sandipmishra.com)<img height=16px src="https://cdn3.iconfinder.com/data/icons/solid-amenities-icon-set/64/Coffee_Maker_copy-512.png">[Coffee!](https://www.timhortons.ca/?lang=en)
 
 
 ## Language Arsenal 🏹🔫
