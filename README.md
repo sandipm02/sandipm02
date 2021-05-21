@@ -16,6 +16,8 @@ I love to learn every single day! The technologies I work with always evolve. He
 
 ### >⃣ Languages
 
+<table>
+<tbody>
 <tr>
 
   <td align="center" width="33%">
@@ -46,6 +48,8 @@ I love to learn every single day! The technologies I work with always evolve. He
   </td>
 
 </tr>
+</tbody>
+</table>
 
 ### >⃣ Frameworks
 
