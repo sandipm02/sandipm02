@@ -11,7 +11,6 @@ impactful and useful techonology that can make people's lives easier & better!
 
 
 #### Some Cool Links: 
-
 [linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
 [website.](https://www.sandipmishra.com/)
 [coffee.](https://www.timhortans.ca)
