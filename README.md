@@ -6,6 +6,8 @@
 
 ## Random Github Statistics 🎈💻
 ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipm02&layout=compact)](https://github.com/sandipm02/github-readme-stats)
+
 
 
 ## Meme Generator
