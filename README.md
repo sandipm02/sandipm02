@@ -124,3 +124,7 @@ I love to learn every single day! The technologies I work with always evolve. He
 ## Random Github Statistics 🎈💻
 Who Doesn't appreciate the good'ol visual? <br>
 ![Sandip's Github Status](https://github-readme-stats.vercel.app/api?username=sandipm02&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sandip-mishra-2002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/sandip-mishra-2002?trk=profile-badge">Sandip Mishra</a></div>
+              
