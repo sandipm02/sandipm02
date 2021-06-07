@@ -39,7 +39,7 @@ I love to learn everyday! The technologies I work with always evolve. Here's a q
 </tbody>
 </table>
 
-### >⃣ Frameworks
+### >⃣ Others/Frameworks
 
 <table>
 <tbody>
