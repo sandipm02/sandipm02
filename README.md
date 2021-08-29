@@ -11,9 +11,9 @@ impactful technology! 💻
 
 
 #### Some Cool Links: 
-[linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
-[website.](https://www.sandipmishra.com/)
-[coffee :).](https://www.timhortans.ca)
+[Linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
+[Website.](https://www.sandipmishra.com/)
+[Coffee :).](https://www.timhortans.ca)
 <br>
 
 ## Language Arsenal 🏹🔫
