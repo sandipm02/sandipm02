@@ -4,7 +4,7 @@
 
 #### Hey I'm Dippy! 👋
 
-I'm a 2nd year Software Engineering Intern studying @ the University of Calgary 👨🏼‍ :)🎓<br>
+I'm a 3rd year Software Engineering Intern studying @ the University of Calgary 👨🏼‍ :)🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful technology! 💻
 <br>
