@@ -4,9 +4,14 @@
 
 #### Hey I'm Dippy! 👋
 
-I'm a 3rd year Software Engineering Intern studying @ the University of Calgary 👨🏼‍ :)🎓<br>
+I'm a 3rd year Software Engineering Student studying @ the University of Calgary 👨🏼‍ :)🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
 impactful technology! 💻
+
+I'm currently Interning for an Accelerator Program created by the Venture Capital Firm Tribune capital! 🚀
+I also got the chance to be a Product Development Intern with a VC Backed Startup, Hermana! 🛠
+
+
 <br>
 
 
