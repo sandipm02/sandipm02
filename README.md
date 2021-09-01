@@ -18,7 +18,7 @@ I also got the chance to be a Product Development Intern with a VC Backed Startu
 #### Some Cool Links: 
 [Linkedin.](https://www.linkedin.com/in/sandip-mishra-2002/)
 [Website.](https://www.sandipmishra.com/)
-[Coffee :).](https://www.timhortans.ca)
+[Coffee :).](https://www.timhortons.ca/?lang=en)
 <br>
 
 ## Language Arsenal 🏹🔫
