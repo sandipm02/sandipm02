@@ -2,11 +2,14 @@
 
 ## What Am I working on right now? 🪐
 
-#### UniversityX
+### UniversityX
 
-I found it difficult to find a software tool that catered towards university students. The offerings provided by my University 
-were not sufficent to help me stay organized! That's why I started working on UniversityX. It will feature SMS tools to remind you 
-when your assigments are due, a scheduling calendar for classes & events and other organizational tools all on one simple platform!
+#### Problem: 
+I found it difficult to find a software tool that catered towards university students.The offerings provided by my University 
+were not sufficent to help me stay organized! 
+
+#### Solution: 
+Featuring SMS tools to remind you when assigments are due, a scheduling calendar for classes & events and other organizational tools all on one simple platform, that has user experience and simplicity in mind!
 
 <br>
 
