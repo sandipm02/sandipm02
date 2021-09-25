@@ -5,7 +5,7 @@
 ### UniversityX
 
 #### Problem: 
-I found it difficult to find a software tool that catered towards university students.The offerings provided by my University 
+I found it difficult to find a software tool that catered towards university students.The offerings provided by University 
 were not sufficent to help me stay organized! 
 
 #### Solution: 
