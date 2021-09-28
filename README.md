@@ -15,7 +15,7 @@ Featuring SMS tools to remind you when assigments are due, a scheduling calendar
 
 ## About Me 👱
 
-#### Hey I'm Dippy! 👋
+#### Hi I'm Dippy! 👋
 
 I'm a 3rd year Software Engineering Student studying @ the University of Calgary 👨🏼‍ :)🎓<br>
 Creating is something i've been fascinated with since I was a child. I hope to one day create 
