@@ -2,14 +2,10 @@
 
 ## What Am I working on right now? 🪐
 
-### UniversityX
+### Bliind
 
 #### Problem: 
-I found it difficult to find a software tool that catered towards university students.The offerings provided by University 
-were not sufficent to help me stay organized! 
-
-#### Solution: 
-Featuring SMS tools to remind you when assigments are due, a scheduling calendar for classes & events and other organizational tools all on one simple platform, that has user experience and simplicity in mind!
+Talent discovery has many potential systematic issues. It's time to flip the script and change the way we do things! With a twist 🏹
 
 <br>
 
@@ -18,11 +14,9 @@ Featuring SMS tools to remind you when assigments are due, a scheduling calendar
 #### Hi I'm Dippy! 👋
 
 I'm a 3rd year Software Engineering Student studying @ the University of Calgary 👨🏼‍ :)🎓<br>
-Creating is something i've been fascinated with since I was a child. I hope to one day create 
-impactful technology! 💻
+Let's get aquianted, feel free to contact me :D! 💻
 
-I'm currently Interning for an Accelerator Program created by the Venture Capital Firm Tribune capital! 🚀
-I also got the chance to be a Product Development Intern with a VC Backed Startup, Hermana! 🛠
+I'm currently working as an SWE for Blackline Safety, prev. SWE @ Taiga Motors, Product @ Norm and SD @ Tribune capital! 🚀🚀🚀
 
 
 <br>
@@ -34,7 +28,7 @@ I also got the chance to be a Product Development Intern with a VC Backed Startu
 [Coffee :).](https://www.timhortons.ca/?lang=en)
 <br>
 
-## Language Arsenal 🏹🔫
+## Language Arsenal 🔫
 <br>
 I love to learn everyday! The technologies I work with always evolve. Here's a quick list of my experiences so far!
 <br>
