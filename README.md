@@ -1,11 +1,5 @@
 ![picture](https://i.imgur.com/jGGNj7h.png)
 
-## What Am I working on right now? 🪐
-
-### Bliind
-Talent discovery has many potential systematic issues. It's time to flip the script and change the way we do things! With a twist 🏹
-
-<br>
 
 ## About Me 👱
 
