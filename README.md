@@ -5,7 +5,7 @@
 
 #### Hi I'm Dippy! 👋
 
-I'm a 3rd year Software Engineering Student studying @ the University of Calgary 👨🏼‍ :)🎓<br>
+I'm a Final Year Software Engineering Student studying @ the University of Calgary 👨🏼‍ :)🎓<br>
 Let's get aquianted, feel free to contact me :D! 💻
 
 I'm currently working as an SWE for Blackline Safety, prev. SWE @ Taiga Motors, Product @ Norm and SD @ Tribune capital! 🚀🚀🚀
